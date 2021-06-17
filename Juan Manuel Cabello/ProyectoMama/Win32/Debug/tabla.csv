@@ -1,0 +1,16 @@
+111;P1;A1;44;0;1;2;1;2;0;0;0;Casco;Atencion a la Infancia;
+112;Prueba2;AP2;44;0;2;1;1;2;1;1;0;Casco;Atencion Social;
+0200/2021;juanma;perez;65;0;20556321V;1;0;0;0;1;0;Cánovas;Atencion Social;
+113;Prueba3;APE3;44;0;3;3;1;2;0;1;0;Casco;Atención a mujeres víctimas de violencia de género;
+PruebaBoton;dded;2e2e2e;44;0;3333;4;3;4;0;0;0;Caserones;Atencion a la Infancia;
+114;Miembros;DDE;45;0;Prueba7;7;1;3;0;0;0;Caserones;Atención a Personas sin hogar;
+de;deded;dede;22;0;dedde;0;0;0;0;0;0;Cánovas;Atención a mujeres víctimas de violencia de género;
+wddwd;wdw;wdwd;;0;dwdw;0;0;0;0;0;0;Casco;Atencion a la Infancia;
+
+TABLA DE PRESTACIONES;
+0200/2021;100;1;07/02/2021;07/02/2021;;0250-2021;;;
+0200/2021;100;150;16/05/2021;07/02/2021;;Edit1;Observacion1;;
+0200/2021;104;40;16/05/2021;07/02/2021;;33;Observacion 2;;
+111;100;50;07/02/2021;07/02/2021;;111;Prueba obv;;
+111;101;111;07/02/2021;07/02/2021;;222;Prueba2;;
+113;101;200;13/02/2021;11/02/2021;18/02/2021;333;;;

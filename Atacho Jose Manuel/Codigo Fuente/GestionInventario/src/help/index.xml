@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE index
+PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+"http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+   <indexitem text="Ventana principal de ayuda" target="aplicacion"/>
+   <indexitem text="Ventana de Login" target="ventana_login"/>
+   <indexitem text="Ventana del Menu Principal" target="ventana_menuprincipal"/>
+   <indexitem text="Ventana de Gestion de Credenciales del Usuario" target="ventana_menugestcred"/>
+   <indexitem text="Ventana de Gestion de Materiales" target="ventana_menumaterial"/>
+   <indexitem text="Ventana de Gestion de Usuarios" target="ventana_menusuario"/>
+   <indexitem text="Otros" target="ventana_otros"/>
+</index>

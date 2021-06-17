@@ -1,0 +1,18 @@
+program Proyect_Mama;
+
+uses
+  Vcl.Forms,
+  Principal in 'Principal.pas' {Form1},
+  Nueva_Familia in 'Nueva_Familia.pas' {Fnueva},
+  datos in 'datos.pas' {Fdatos};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TFnueva, Fnueva);
+  Application.CreateForm(TFdatos, Fdatos);
+  Application.Run;
+end.

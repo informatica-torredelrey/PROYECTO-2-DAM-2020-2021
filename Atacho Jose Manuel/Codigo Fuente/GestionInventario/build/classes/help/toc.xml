@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc version="1.0">
+   <tocitem text="Ventana principal de ayuda" target="aplicacion">
+      <tocitem text="Ventana de Login" target="ventana_login"/>
+	  <tocitem text="Ventana del Menu Principal" target="ventana_menuprincipal"/>
+	  <tocitem text="Ventana de Gestion de Credenciales del Usuario" target="ventana_menugestcred"/>
+	  <tocitem text="Ventana de Gestion de Materiales" target="ventana_menumaterial"/>
+	  <tocitem text="Ventana de Gestion de Usuarios" target="ventana_menusuario"/>
+	  <tocitem text="Otros" target="ventana_otros"/>
+   </tocitem>
+</toc>
